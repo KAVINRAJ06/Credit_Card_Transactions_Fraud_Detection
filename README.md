@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-This project implements a credit card fraud detection model using a dataset containing information about credit card transactions. The goal is to classify transactions as fraudulent
+This project implements a credit card fraud detection model using a dataset containing information about credit card transactions. The goal is to classify transactions as fraudulent using logistic regression
 
 ## Features
 - **Data Preprocessing**: The dataset is cleaned and transformed, including datetime processing to extract useful features.
